@@ -4,3 +4,5 @@ Practice by Node.js
 Taking course Internet, Architecure and Protocol
 
 And learn how to code for TCP Server and TCP Client Example using Node.js
+
+Hope this example will help me better understand content
